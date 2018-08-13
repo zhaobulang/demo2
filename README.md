@@ -2,3 +2,4 @@
 * git add .
 * git branch
 * git --help
+* git checkout
