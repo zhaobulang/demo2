@@ -1,2 +1,4 @@
 # demo2
-git study2
+git add .
+git branch
+git --help
